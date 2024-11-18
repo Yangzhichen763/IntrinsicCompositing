@@ -10,10 +10,10 @@ setuptools.setup(
     license="",
     python_requires=">3.6",
     install_requires=[
-        'altered_midas @ git+https://github.com/CCareaga/MiDaS@master',
-        'chrislib @ git+https://github.com/CCareaga/chrislib@main',
-        'omnidata_tools @ git+https://github.com/CCareaga/omnidata@main',
-        'boosted_depth @ git+https://github.com/CCareaga/BoostingMonocularDepth@main',
-        'intrinsic @ git+https://github.com/compphoto/intrinsic@main'
+        'altered_midas @ git+https://gitclone.com/github.com/CCareaga/MiDaS@master',
+        'chrislib @ git+https://gitclone.com/github.com/CCareaga/chrislib@main',
+        'omnidata_tools @ git+https://gitclone.com/github.com/CCareaga/omnidata@main',
+        'boosted_depth @ git+https://gitclone.com/github.com/CCareaga/BoostingMonocularDepth@main',
+        'intrinsic @ git+https://gitclone.com/github.com/compphoto/intrinsic@main'
     ]
 )
